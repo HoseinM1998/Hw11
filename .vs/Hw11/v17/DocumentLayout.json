@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HW11\\Hw11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\repsitorydapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\repsitorydapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\repositoryservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\repositoryservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\repositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\repositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|d:\\hw11\\hw11\\hw11\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3506CF2-BC00-4D3C-80EA-22B78B2FA31F}|Hw11\\Hw11.csproj|solutionrelative:hw11\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\Product.cs",
+              "RelativeDocumentMoniker": "Hw11\\Product.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\Product.cs",
+              "RelativeToolTip": "Hw11\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:02:19.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\Configuration.cs",
+              "RelativeDocumentMoniker": "Hw11\\Configuration.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\Configuration.cs",
+              "RelativeToolTip": "Hw11\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:08:17.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Hw11\\IProductRepository.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\IProductRepository.cs",
+              "RelativeToolTip": "Hw11\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:04:41.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "Hw11\\ProductQueries.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\ProductQueries.cs",
+              "RelativeToolTip": "Hw11\\ProductQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:09:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepsitoryDapper.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\RepsitoryDapper.cs",
+              "RelativeDocumentMoniker": "Hw11\\RepsitoryDapper.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\RepsitoryDapper.cs",
+              "RelativeToolTip": "Hw11\\RepsitoryDapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:05:31.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryAdo.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\RepositoryAdo.cs",
+              "RelativeDocumentMoniker": "Hw11\\RepositoryAdo.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\RepositoryAdo.cs",
+              "RelativeToolTip": "Hw11\\RepositoryAdo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:05.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryServise.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\RepositoryServise.cs",
+              "RelativeDocumentMoniker": "Hw11\\RepositoryServise.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\RepositoryServise.cs",
+              "RelativeToolTip": "Hw11\\RepositoryServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:34.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\Program.cs",
+              "RelativeDocumentMoniker": "Hw11\\Program.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\Program.cs",
+              "RelativeToolTip": "Hw11\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:41:55.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgressBar.cs",
+              "DocumentMoniker": "D:\\HW11\\Hw11\\Hw11\\ProgressBar.cs",
+              "RelativeDocumentMoniker": "Hw11\\ProgressBar.cs",
+              "ToolTip": "D:\\HW11\\Hw11\\Hw11\\ProgressBar.cs",
+              "RelativeToolTip": "Hw11\\ProgressBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:10:13.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
