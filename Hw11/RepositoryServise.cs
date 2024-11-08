@@ -1,6 +1,7 @@
 ﻿using Colors.Net.StringColorExtensions;
+using Hw11;
 
-public class RepositoryServise : RepsitoryDapper
+public class RepositoryServise : RepositoryAdo
 {
     public string AddProduct(string name, int categoryId, int price)
     {

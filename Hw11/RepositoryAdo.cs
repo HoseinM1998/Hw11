@@ -63,7 +63,7 @@ public class RepositoryAdo
                             Name = (string)reader["Name"],
                             CategoryId = (int)reader["CategoryId"],
                             Price = (int)reader["Price"],
-                            CategoryName = (string)reader["CategoryName"]
+                            //CategoryName = (string)reader["CategoryName"]
                         };
                     }
                 }

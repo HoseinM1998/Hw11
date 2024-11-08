@@ -54,7 +54,7 @@ do
                 ColoredConsole.Write("Enter Product Id: ".DarkBlue());
                 int id = Convert.ToInt32(Console.ReadLine());
                 var productById = productService.GetProductById(id);
-                ColoredConsole.WriteLine($"Id:{productById.Id},Name:{productById.Name}, CategoryId:{productById.CategoryId},CategoryName:{productById.CategoryName},price:{productById.Price}".DarkMagenta());
+                ColoredConsole.WriteLine($"Id:{productById.Id},Name:{productById.Name}, CategoryId:{productById.CategoryId}, CategoryName: ,price:{productById.Price}".DarkMagenta());
                 Console.ReadKey();
                 break;
 
